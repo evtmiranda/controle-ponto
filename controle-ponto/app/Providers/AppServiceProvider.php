@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace ControlePonto\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
